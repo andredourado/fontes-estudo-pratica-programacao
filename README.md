@@ -15,6 +15,9 @@ As informações disponibilizadas sobre cada site serão:
 
 ### Codility
 
-- **Link Principal:** https://www.codility.com/
+- **Link Principal:** https://app.codility.com/programmers/
 - **Linguagens:** C#, C++, C, Free Pascal, Go, Java, JavaScript, Kotlin, React, Lua, Objective-C, Perl, PHP, PostgreSQL, Python, R, Ruby, Scala, SQLite, Swift, VB.NET, TypeScript, Bash, HTML/CSS
+- **Estudo/Tutoriais:** https://app.codility.com/programmers/lessons/
+- **Prática/Desafios:** https://app.codility.com/programmers/challenges/
+
 
