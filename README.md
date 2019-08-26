@@ -13,3 +13,8 @@ As informações disponibilizadas sobre cada site serão:
 
 ## Sites
 
+### Codility
+
+- **Link Principal:** https://www.codility.com/
+- **Linguagens:** C#, C++, C, Free Pascal, Go, Java, JavaScript, Kotlin, React, Lua, Objective-C, Perl, PHP, PostgreSQL, Python, R, Ruby, Scala, SQLite, Swift, VB.NET, TypeScript, Bash, HTML/CSS
+
