@@ -1,5 +1,5 @@
 # Sites para Estudo e Prática em Tópicos de Programação
-uitas empresas lançam mão de sites especializados em testar os conhecimentos de possíveis candidatos para contratação. Aqui constarão os sites mais relevantes nesse segmento.
+Muitas empresas lançam mão de sites especializados em testar os conhecimentos de possíveis candidatos para contratação. Aqui constarão os sites mais relevantes nesse segmento.
 
 ## Sobre os Sites
 As informações disponibilizadas sobre cada site serão:
