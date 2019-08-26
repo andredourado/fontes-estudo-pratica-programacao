@@ -1,4 +1,4 @@
-# Sites para Estudo e Prática em Tópicos de Programação
+# Sites para Estudo e Prática em Tópicos sobre Programação
 Muitas empresas lançam mão de sites especializados em testar os conhecimentos de possíveis candidatos para contratação. Aqui constarão os sites mais relevantes nesse segmento.
 
 ## Sobre os Sites
