@@ -18,4 +18,10 @@ As informações disponibilizadas sobre cada site serão:
 - **Estudo/Tutoriais:** https://app.codility.com/programmers/lessons/
 - **Prática/Desafios:** https://app.codility.com/programmers/challenges/
 
+### HackerRank
 
+- **Link Principal:** https://www.hackerrank.com/dashboard
+- **Linguagens:** C++, C, Python, Ruby, Linux Shell, Programação Funcional
+- **Outros Tópicos:** Inteligência Artificial, SQL, Databases, Regex
+- **Estudo/Tutoriais:** [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) - [10 days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) - [10 Days of Statistics](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
+- **Prática/Desafios:** https://app.codility.com/programmers/challenges/
